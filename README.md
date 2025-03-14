@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="SafeURL logo" width="150" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/webapp/assets/SafeURL.jpeg">
+  <img align="center" alt="SafeURL logo" width="150" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/SafeURL.jpeg">
 </p>
 
 # SafeURL
@@ -18,11 +18,11 @@ yourbittorrent.com/?q=anthony-hamilton-soulife -> MALICIOUS
 
 ## Previews
 
-<img alt="Preview 2" width="800" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/webapp/assets/preview.png">
+<img alt="Preview 2" width="800" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/preview.png">
 
 ## Neural Network Model
 
-<img alt="Model Image" width="800" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/webapp/assets/model_graphic.png">
+<img alt="Model Image" width="800" src="https://raw.githubusercontent.com/thechiranjeevvyas/SafeURL/refs/heads/main/assets/model_graphic.png">
 
 The model sequence defined within `genetic_algorithm_implementation.py` is as follows:
 
